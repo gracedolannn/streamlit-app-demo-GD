@@ -5,7 +5,7 @@ st.set_page_config(page_title="FAU ISM 6427C", layout="wide")
 
 # Header with an Image
 st.image("https://img2.wikia.nocookie.net/__cb20120628082105/collegefootballmania/images/4/4b/NCAA-Florida_Atlantic_Owls-logo.png")
-stt.title("FAU ISM 6427C")
+st.title("FAU ISM 6427C")
 st.write("Welcome to the course repository for FAU's ISM 6427C class.")
 
 # Sidebar
